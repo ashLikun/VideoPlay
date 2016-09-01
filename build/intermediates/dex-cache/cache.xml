@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Leonard\studio_hanbang\AndroidVideoPlayer-master\app\build\intermediates\exploded-aar\AndroidVideoPlayer-master\videoplay\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="48ea4c8d14d60d8471f64155d3f9381874006bce">
+        <dex dex="E:\Leonard\studio_hanbang\AndroidVideoPlayer-master\app\build\intermediates\pre-dexed\debug\AndroidVideoPlayer-master-videoplay-unspecified_a042d3e4904b61fc098479c00f5db6c6fcff7578.jar" />
+    </item>
+
+</items>
