@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/material_video_record_stop" android:state_selected="true">
+
+
+    </item>
+
+    <item android:drawable="@drawable/material_video_record_play"></item>
+</selector>
